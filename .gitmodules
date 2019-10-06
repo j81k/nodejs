@@ -1,0 +1,3 @@
+[submodule "hyproid-chat"]
+	path = hyproid-chat
+	url = https://git.heroku.com/hyproid-chat.git
